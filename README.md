@@ -5,7 +5,7 @@ package java_program;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.stream.Collectors;
-```
+
 
 public class program {
     final static int Min = -1000;
@@ -82,4 +82,4 @@ public class program {
     }
 }    
     
-~~~
+```
