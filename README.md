@@ -1,11 +1,11 @@
 ДЗ к семинару 1
-~~~
+```java
 package java_program;
 
 import java.util.Arrays;
 import java.util.Random;
 import java.util.stream.Collectors;
-
+```
 
 public class program {
     final static int Min = -1000;
